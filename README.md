@@ -3,7 +3,7 @@
 </div>
 
 ## 안녕하세요!  
-**하드웨어 개발자가 되고 싶은 KIDOKY입니다.**  
+**소프트웨어와 하드웨어를 아우르는 개발자로 성장하고 싶은, KIDOKY입니다.**  
 
 ## 🛠️ Tech Stacks  
 <div style="text-align: left;">
