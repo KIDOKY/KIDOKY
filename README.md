@@ -22,6 +22,6 @@
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
 </div>
 
-## 🏅 Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIDOKY&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=KIDOKY&show_icons=true">
+## 🏅 Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIDOKY&layout=compact&theme=tokyonight)<br></br>
+![KIDOKY's GitHub stats](https://github-readme-stats.vercel.app/api?username=KIDOKY&show_icons=true&theme=tokyonight)
